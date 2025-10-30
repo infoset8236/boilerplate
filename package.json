@@ -1,0 +1,15 @@
+{
+  "name": "styleguide",
+  "version": "1.0.0",
+  "description": "공통 CSS, FONT, IMG, PLUGIN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "stylelint": "^16.25.0"
+  }
+}
